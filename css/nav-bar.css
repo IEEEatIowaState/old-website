@@ -1,0 +1,12 @@
+@media only screen and (min-device-width: 980px) {
+    .nav-button-text {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-device-width: 980px) {
+    .nav-links-mobile {
+        display: none !important;
+        color: red;
+    }
+}
